@@ -10,7 +10,7 @@
   <h1>
     Siva Ranjini
   </h1>
-  <a href ="mailto:sivaranjinimurugavel@gmail.com"></a>
+  <a href ="mailto:sivaranjinimurugavel@gmail.com">send mail</a>
     <address>
       Visit us at :<br>
       T Nagar<br>
