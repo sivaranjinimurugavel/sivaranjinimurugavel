@@ -10,9 +10,10 @@
   <h1>
     Siva Ranjini
   </h1>
+  <a href ="mailto:sivaranjinimurugavel@gmail.com"></a>
     <address>
       Visit us at :<br>
-      T Nagae<br>
+      T Nagar<br>
       Chennai<br>
       
     </address>
