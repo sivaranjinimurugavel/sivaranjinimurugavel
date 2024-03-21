@@ -14,11 +14,21 @@
    <a href ="tel:+7339422865"> Call me at +7339422865</a><br>
   
     <address>
-      Visit us at :<br>
+      Visit at :<br>
       T Nagar<br>
       Chennai<br>
-      
-    </address>
+      </address>
+      <h1>
+        Objective
+      </h1>
+      <body>
+      <p>
+      Candidate eager to work in an organization which provides me with ample
+opportunities to enhance my skills and knowledge along with contributing to the
+growth of the organization.
+     </p>
+     </body>
+
     
   
 </html>
