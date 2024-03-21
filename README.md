@@ -10,8 +10,8 @@
   <h1>
     Siva Ranjini
   </h1>
-  <a href ="mailto:sivaranjinimurugavel@gmail.com"> mail</a>
-   <a href ="tel:+7339422865"> Call me at +7339422865</a>
+  <a href ="mailto:sivaranjinimurugavel@gmail.com"> mail</a><br>
+   <a href ="tel:+7339422865"> Call me at +7339422865</a><br>
   
     <address>
       Visit us at :<br>
